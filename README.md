@@ -48,5 +48,4 @@ Family produces a very high average revenue per movie and the market is not satu
 Action has by far the largest market and revenue per movie is high.
 
 Animation, like Family, has a lower count of movies and a very solid revenue per movie.
-
-Testing a movie domestically would give a very good sense if the movie would be successful abroad. 
+ 
