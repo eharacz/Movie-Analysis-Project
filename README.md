@@ -7,6 +7,7 @@ Analyzing Movies
 Project Members:
 
 Ed Haracz
+
 Chadwick Balloo
 
 Project Goals:
