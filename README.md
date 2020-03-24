@@ -33,7 +33,8 @@ Explore 2018 movie data by genre and market (foreign vs. domestic) to determine 
 - Action genre has the largest market
 - Family films perform best by movie (Sample size was small however) followed by Action and Animation respectively.
 - Drama had the most movies produced followed by Documentary then Comedy.
-- There is a very strong correlation between performance Domestically vs. Foreign.Testing a movie domestically would give a very good sense if the movie would be successful abroad.
+- There is a very strong correlation between performance Domestically vs. Foreign.
+  - Testing a movie domestically would give a very good sense if the movie would be successful abroad.
 
 ## Recommendation:
 
