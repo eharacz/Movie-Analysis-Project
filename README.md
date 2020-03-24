@@ -15,6 +15,12 @@ Explore 2018 movie data by genre and market (foreign vs. domestic) to determine 
 - Pandas
 - SQL
 
+## Data 
+- The Movie Database (TMDb)
+  - All 2018 (release year) movies including genre, rating, rating count, date of release 
+- Box Office Mojo
+  - Top grossing movies of 2018
+
 ## Questions:
 
 - Can we look at 2018 to determine which genres in what markets will perform best?
