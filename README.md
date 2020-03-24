@@ -31,7 +31,7 @@ Explore 2018 movie data by genre and market (foreign vs. domestic) to determine 
 
 ## Recommendation:
 
--Action, Animation and Family would be the top three genres we recommend.
+- Action, Animation and Family would be the top three genres we recommend.
 - Family produces a very high average revenue per movie and the market is not saturated with a large count of films.
 - Action has by far the largest market and revenue per movie is high.
 - Animation, like Family, has a lower count of movies and a very solid revenue per movie.
