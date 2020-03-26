@@ -29,6 +29,8 @@ Explore 2018 movie data by genre and market (foreign vs. domestic) to determine 
 - Can we choose what genre we should produce based on the revenues of 2018 films?
 
 ## Findings: 
+- Average Rating by Genre:
+![Screenshot](avg_rating_genre.png)
 - Action genre has the largest market
 ![Screenshot](tot_rev_genre.png)
 - Family films perform best by movie (Sample size was small however) followed by Action and Animation respectively.
