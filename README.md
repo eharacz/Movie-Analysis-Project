@@ -28,11 +28,13 @@ Explore 2018 movie data by genre and market (foreign vs. domestic) to determine 
 - How does foreign vs domestic market affect revenue?
 - Can we choose what genre we should produce based on the revenues of 2018 films?
 
-## Findings:
-
+## Findings: 
 - Action genre has the largest market
+![Screenshot](tot_rev_genre.png)
 - Family films perform best by movie (Sample size was small however) followed by Action and Animation respectively.
+![Screenshot](avg_rev_genre.png)
 - Drama had the most movies produced followed by Documentary then Comedy.
+![Screenshot](count_genre.png)
 - There is a very strong correlation between performance Domestically vs. Foreign.
   - Testing a movie domestically would give a very good sense if the movie would be successful abroad.
 
